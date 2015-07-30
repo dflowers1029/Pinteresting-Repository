@@ -133,6 +133,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  bcrypt-ruby
   bootstrap-sass
   coffee-rails (~> 4.0.0)
   devise (~> 3.1.0rc2)

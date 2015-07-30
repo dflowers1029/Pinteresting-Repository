@@ -14,6 +14,7 @@ gem 'devise', '~> 3.1.0rc2'
 gem 'tzinfo-data'
 group :development, :test do
 	gem 'sqlite3'
+gem 'bcrypt-ruby'
 end
 
 group :production do
